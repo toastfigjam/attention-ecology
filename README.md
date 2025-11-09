@@ -6,7 +6,7 @@
 ## 1. why this matters
 
 our collective attention is the most valuable and most depleted resource of the 21st century.  
-it fuels economies, creativity, and meaning — yet our tools are optimized to *capture* it, not *cultivate* it.  
+it fuels economies, creativity, and meaning. yet our tools are optimized to *capture* it, not *cultivate* it.  
 
 the consequence is a form of **cognitive climate change**:  
 constant stimulation erodes depth, empathy, and sustained thought.  
